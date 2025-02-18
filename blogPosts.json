@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b1",
+    "authorId": "p1",
+    "postContent": "Hello world! Welcome to my blog."
+  },
+  {
+    "id": "b2",
+    "authorId": "p2",
+    "postContent": "Welcome to another blog. hehe"
+  }
+]

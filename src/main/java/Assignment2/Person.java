@@ -19,7 +19,7 @@ public class Person {
     private final String gender;
 
     // Validation logic
-    private Person(String id, String firstName, String lastName, Integer age, String gender) {
+    public Person(String id, String firstName, String lastName, Integer age, String gender) {
         if (id == null) {
             throw new IllegalArgumentException("ID cannot be null.");
         }

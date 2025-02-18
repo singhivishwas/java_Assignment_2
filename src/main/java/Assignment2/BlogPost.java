@@ -17,7 +17,7 @@ public class BlogPost {
     private final String postContent;
 
     // Validation logic
-    private BlogPost(String id, String authorId, String postContent) {
+    public BlogPost(String id, String authorId, String postContent) {
         if (id == null) {
             throw new IllegalArgumentException("ID cannot be null.");
         }
