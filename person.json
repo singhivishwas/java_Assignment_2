@@ -1,0 +1,16 @@
+[
+  {
+    "id": "p1",
+    "firstName": "Vishwas",
+    "lastName": "Singhi",
+    "age": 24,
+    "gender": "Male"
+  },
+  {
+    "id": "p2",
+    "firstName": "Lakshay",
+    "lastName": "Girdher",
+    "age": 20,
+    "gender": "Male"
+  }
+]
